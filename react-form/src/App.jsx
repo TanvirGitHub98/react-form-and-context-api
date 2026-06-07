@@ -5,6 +5,7 @@ import ControlledFieldFormAction from './components/ControlledFieldFormAction/Co
 import UnControlledFormDataUseRef from './components/UnControlledFormDataUseRef/UnControlledFormDataUseRef';
 import CustomHookForm from './components/CustomHookForm/CustomHookForm';
 import ProductManagement from './components/ProductManagement/ProductManagement';
+import FamilyTree from './components/FamilyTree/FamilyTree';
 
 
 function App() {
@@ -15,7 +16,8 @@ function App() {
       {/* <ControlledFieldFormAction></ControlledFieldFormAction> */}
       {/* <UnControlledFormDataUseRef></UnControlledFormDataUseRef> */}
       {/* <CustomHookForm></CustomHookForm> */}
-      <ProductManagement></ProductManagement>
+      {/* <ProductManagement></ProductManagement> */}
+      <FamilyTree></FamilyTree>
       
     </>
   )

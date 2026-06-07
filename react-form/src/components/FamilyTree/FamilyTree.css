@@ -1,0 +1,11 @@
+div{
+    border: 1px solid tan;
+    padding: 10px;
+    margin: 5px;
+
+}
+.flex
+{
+    display: flex;
+    justify-content: space-between;
+}
